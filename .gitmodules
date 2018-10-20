@@ -1,0 +1,15 @@
+[submodule "projects/CarND_T2_P1_Extended_Kalman_Filter"]
+	path = projects/CarND_T2_P1_Extended_Kalman_Filter
+	url = https://github.com/sliu810/CarND_T2_P1_Extended_Kalman_Filter.git
+[submodule "projects/CarND_T2_P1_Unscented_Kalman_Filter"]
+	path = projects/CarND_T2_P1_Unscented_Kalman_Filter
+	url = https://github.com/sliu810/CarND_T2_P1_Unscented_Kalman_Filter.git
+[submodule "projects/CarND_T2_P3_Kidnapped_Vehicle"]
+	path = projects/CarND_T2_P3_Kidnapped_Vehicle
+	url = https://github.com/sliu810/CarND_T2_P3_Kidnapped_Vehicle.git
+[submodule "projects/CarND_T2_P4_PID_Control_Project"]
+	path = projects/CarND_T2_P4_PID_Control_Project
+	url = https://github.com/sliu810/CarND_T2_P4_PID_Control_Project.git
+[submodule "projects/CarND_T2_P5_MPC"]
+	path = projects/CarND_T2_P5_MPC
+	url = https://github.com/sliu810/CarND_T2_P5_MPC.git
